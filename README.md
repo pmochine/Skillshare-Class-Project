@@ -12,4 +12,9 @@ The class project goal is to create a simple hello world file in the language yo
 
 Enjoy :)
 
-p.S. if you want to learn how to create Django. You need to install python first. Here is a good tutorial for mac users: https://appdividend.com/2018/03/28/how-to-install-django-in-mac/
+## How to use it
+
+1. Install Python & Django. For mac users here is a [Tutorial](https://appdividend.com/2018/03/28/how-to-install-django-in-mac/)
+2. Read the Tutorial of Django [here](https://docs.djangoproject.com/en/2.2/intro/)
+3. Run the server with `python manage.py runserver`
+4. Visit: http://127.0.0.1:8000/hello/
